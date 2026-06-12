@@ -1,0 +1,26 @@
+Patient ID,Patient Name,Age,Gender,Disease,Doctor,Visit Date,Prescription,Lab Report,Blood Group
+P001,John Doe,45,Male,Diabetes,Dr. Sharma,2025-01-15,Metformin,HbA1c Elevated,B+
+P002,Sarah Khan,32,Female,Hypertension,Dr. Patel,2025-01-18,Amlodipine,BP High,A+
+P003,Rahul Singh,58,Male,Heart Disease,Dr. Reddy,2025-01-20,Aspirin,ECG Abnormal,O+
+P004,Priya Nair,27,Female,Asthma,Dr. Khan,2025-01-22,Inhaler,Lung Function Reduced,AB+
+P005,Arjun Mehta,36,Male,Fever,Dr. Sharma,2025-01-25,Paracetamol,Normal,O+
+P006,Neha Verma,29,Female,Diabetes,Dr. Patel,2025-02-01,Metformin,HbA1c Elevated,A+
+P007,Amit Kumar,41,Male,Hypertension,Dr. Singh,2025-02-03,Losartan,BP High,B+
+P008,Kavya Rao,33,Female,Anemia,Dr. Reddy,2025-02-05,Iron Tablets,Low Hemoglobin,O-
+P009,Rohan Das,52,Male,Kidney Disease,Dr. Khan,2025-02-08,Renal Medication,Creatinine High,A-
+P010,Meera Iyer,47,Female,Heart Disease,Dr. Sharma,2025-02-10,Atorvastatin,ECG Abnormal,B+
+P011,Vikram Joshi,39,Male,Diabetes,Dr. Patel,2025-02-12,Insulin,HbA1c Elevated,AB+
+P012,Sneha Gupta,26,Female,Asthma,Dr. Singh,2025-02-15,Inhaler,Lung Function Reduced,O+
+P013,Deepak Yadav,50,Male,Hypertension,Dr. Reddy,2025-02-18,Amlodipine,BP High,B-
+P014,Anjali Menon,31,Female,Fever,Dr. Khan,2025-02-20,Paracetamol,Normal,A+
+P015,Karan Malhotra,44,Male,Liver Disease,Dr. Sharma,2025-02-22,Liver Support Tablets,Liver Enzymes High,O+
+P016,Pooja Sharma,35,Female,Diabetes,Dr. Patel,2025-03-01,Metformin,HbA1c Elevated,A+
+P017,Manoj Kumar,60,Male,Heart Disease,Dr. Singh,2025-03-03,Aspirin,ECG Abnormal,B+
+P018,Divya Nair,28,Female,Anemia,Dr. Reddy,2025-03-05,Iron Tablets,Low Hemoglobin,O-
+P019,Suresh Rao,49,Male,Kidney Disease,Dr. Khan,2025-03-08,Renal Medication,Creatinine High,AB+
+P020,Ritika Shah,34,Female,Hypertension,Dr. Sharma,2025-03-10,Losartan,BP High,A-
+P021,Harish Patel,42,Male,Diabetes,Dr. Patel,2025-03-12,Insulin,HbA1c Elevated,B+
+P022,Nisha Kapoor,30,Female,Asthma,Dr. Singh,2025-03-15,Inhaler,Lung Function Reduced,O+
+P023,Gaurav Mishra,55,Male,Heart Disease,Dr. Reddy,2025-03-18,Atorvastatin,ECG Abnormal,A+
+P024,Shreya Sen,24,Female,Fever,Dr. Khan,2025-03-20,Paracetamol,Normal,B+
+P025,Aditya Verma,46,Male,Liver Disease,Dr. Sharma,2025-03-22,Liver Support Tablets,Liver Enzymes High,O+

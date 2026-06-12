@@ -1,0 +1,11 @@
+Staff ID,Name,Role,Shift,Department
+S001,Dr. Sharma,Doctor,Morning,Cardiology
+S002,Dr. Patel,Doctor,Evening,Neurology
+S003,Nurse Priya,Nurse,Morning,ICU
+S004,Nurse Kavya,Nurse,Night,Emergency
+S005,Dr. Reddy,Doctor,Morning,Orthopedics
+S006,Nurse Anjali,Nurse,Evening,Pediatrics
+S007,Dr. Singh,Doctor,Night,General Medicine
+S008,Nurse Meera,Nurse,Morning,Surgery
+S009,Dr. Khan,Doctor,Evening,ICU
+S010,Nurse Divya,Nurse,Night,Cardiology

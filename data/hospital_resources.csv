@@ -1,0 +1,8 @@
+Resource,Available,In Use,Total
+Beds,120,80,200
+Ventilators,25,15,40
+Oxygen Units,60,30,90
+Wheelchairs,35,15,50
+ECG Machines,12,8,20
+MRI Machines,3,2,5
+CT Scanners,4,2,6

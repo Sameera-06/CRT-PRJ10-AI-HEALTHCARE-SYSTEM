@@ -1,0 +1,11 @@
+Bed ID,Type,Status
+B001,General,Occupied
+B002,General,Available
+B003,ICU,Occupied
+B004,ICU,Available
+B005,General,Available
+B006,ICU,Occupied
+B007,General,Available
+B008,ICU,Available
+B009,General,Occupied
+B010,ICU,Available
