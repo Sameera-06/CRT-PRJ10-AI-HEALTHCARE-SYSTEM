@@ -418,4 +418,8 @@ Healthcare Analytics | Machine Learning | Streamlit Development
 
 ---
 
+Live Link : https://crt-prj10-ai-healthcare-system-vifm.onrender.com
+
+---
+
 ## ⭐ If you like this project, don't forget to star the repository!
